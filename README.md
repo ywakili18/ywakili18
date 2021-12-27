@@ -38,7 +38,7 @@
       <a href="#"><img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?flat-square&logo=github&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Postman-5849BE?style=flat-square&logo=Postman" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/netlify-%23000000.svg?flat-square&logo=netlify&logoColor=#00C7B7" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/vercel-%23000000.svg?flat-square&logo=vercel&logoColor=white" />  </a>
